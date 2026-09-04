@@ -25,34 +25,3 @@ days_of_week = (
 print("Name:", studname)
 print("Age:", studage)
 print("Height:", stud_height)
-
-
-
-
-
-
-
-
-Class = "Grade 10" #Tuple
-Section = "Emerald" #Strings
-NStudents = 32 #integer
-
-print("Grade 10",)
-
-
-
-"Addition:", 12+1478
-"Subraction:", 12-1478
-"Multiplication:", 12*1478
-"Division:", 12**1478
-"Floating point Division:", 12/1478
-"Floor Division:", 12//1478
-"Modulo:", 12%1478
-
-print("Addition:", 12+1478)
-print("Subraction:", 12-1478)
-print("Multiplication:", 12*1478)
-print("Division:", 12**1478)
-print("Floating point Division:", 12/1478)
-print("Floor Division:", 12//1478)
-print("Modulo:", 12%1478)
